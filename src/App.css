@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.section {
+ background-image: linear-gradient(to bottom right, #2A1768 52%, #ECEEF6 48%);
+}
